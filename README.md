@@ -1,7 +1,7 @@
 # My Awesome Flutter App
 
 A simple Flutter demo app based on the tutorial in the blog post 
-["Integrating the Scanbot SDK in a Flutter App"](TODO:LINK).
+["Integrating the Scanbot SDK in a Flutter app"](https://scanbot.io/blog/scanner-sdk-for-flutter-tutorial/).
 
 For a **full** example project which demonstrates **all** API methods of the Scanbot SDK Flutter Plugin
 see the repo [scanbot-sdk-example-flutter](https://github.com/doo/scanbot-sdk-example-flutter).
